@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashish Dwivedi</h1>
+<div>
+<p align="center"> HI! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p>
+<h1 align='center'>I'm Ashish Dwivedi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47padht9kp07t9qr6tusqds4gzsiclmlc3k51cxqj6&rid=giphy.gif&ct=g">
 
