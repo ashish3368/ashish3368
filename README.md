@@ -17,8 +17,8 @@
 - ⚡ Fun fact **Little Funny...!**
 
 
- <h2> Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="130px"> </h2>
-<p align="center">
+ <h2> Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="200px"> </h2>
+<p align="left">
 <a href="https://twitter.com/ashish_dwivedi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_dwivedi3" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashish-dwivedi-ab798021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-dwivedi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//17573992/ashish-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17573992/ashish-dwivedi" height="30" width="40" /></a>
